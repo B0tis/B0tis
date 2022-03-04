@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Botis
 
-🔭 I’m currently working on [Golden](https://github.com/spasten-studio/Golden)
+🔭 I’m currently working on [Golden](https://github.com/spasten-studio/Golden) and on an Alt:V RP Server 😋
 
 ### `Statistics`
 <a href="https://github.com/BotisDerG">
