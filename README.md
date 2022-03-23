@@ -4,8 +4,8 @@
 
 ### `Statistics`
 <a href="https://github.com/BotisDerG">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BotisDerG&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BotisDerG&layout=compact&theme=vue-dark&hide=html" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BotisDerG&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BotisDerG&layout=compact&theme=github_dark&hide=html" />
 </a>
 
 <!--
