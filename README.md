@@ -4,7 +4,7 @@
 
 ### `Statistics`
 <a href="https://github.com/BotisDerG">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BotisDerG&show_icons=true&theme=github_dark&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BotisDerG&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BotisDerG&layout=compact&theme=github_dark" />
 </a>
 
