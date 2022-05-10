@@ -5,7 +5,7 @@
 ### `Statistics`
 <a href="https://github.com/BotisDerG">
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=BotisDerG&show_icons=true&theme=github_dark&count_private=true" />
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BotisDerG&layout=compact&theme=github_dark" />
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BotisDerG&theme=github_dark" />
 </a>
 
 <!--
