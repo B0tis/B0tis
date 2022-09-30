@@ -3,9 +3,9 @@
 🔭 I’m currently working on [Golden](https://github.com/spasten-studio/Golden) and on an Alt:V RP Server 😋
 
 ### `Statistics`
-<a href="https://github.com/BotisDerG">
-  <img align="center" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B0tis&theme=github_dark" />
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=B0tis&show_icons=true&theme=github_dark&count_private=true" />
+<a href="https://github.com/B0tis">
+  <img align="center" height="250em" src="https://github.com/B0tis/github-stats-transparent/blob/output/generated/languages.svg" />
+  <img align="center" height="150em" src="https://github.com/B0tis/github-stats-transparent/blob/output/generated/overview.svg" />
 </a>
 
 <!--
