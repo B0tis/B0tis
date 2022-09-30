@@ -5,7 +5,7 @@
 ### `Statistics`
 <a href="https://github.com/B0tis">
   <img align="center" height="250em" src="https://github.com/B0tis/github-stats-transparent/blob/output/generated/languages.svg" />
-  <img align="center" height="150em" src="https://github.com/B0tis/github-stats-transparent/blob/output/generated/overview.svg" />
+  <img align="center" height="250em" src="https://github.com/B0tis/github-stats-transparent/blob/output/generated/overview.svg" />
 </a>
 
 <!--
